@@ -1,0 +1,23 @@
+inputs:
+  incidents:
+    type: OptionMenu
+    row: 0
+    column: 0
+    options:
+    - cpu
+    - memory
+
+  operating_systems:
+    type: OptionMenu
+    row: 1
+    column: 0
+    options:
+    - Linux
+    - Windows
+
+  
+
+  
+
+
+  
